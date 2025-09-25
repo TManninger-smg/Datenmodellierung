@@ -121,14 +121,42 @@
         <mxCell id="6IoawU8fSsD1FMSGB_2r-48" value="SMG Datenbank" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="390" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-49" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-49" value="Betondaten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-50" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-50" value="Mörteldaten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-51" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-51" value="Chemischedaten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-48">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-42" target="6IoawU8fSsD1FMSGB_2r-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="757" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.721;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-28" target="6IoawU8fSsD1FMSGB_2r-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="610" as="sourcePoint" />
+            <mxPoint x="800" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="770" />
+              <mxPoint x="788" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-10" target="6IoawU8fSsD1FMSGB_2r-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="760" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="757" y="215" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
