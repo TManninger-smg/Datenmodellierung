@@ -17,13 +17,13 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-10" value="Ausgefüllte Formblätter nach ÖNORM 4710-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="160" height="90" as="geometry" />
+          <mxGeometry x="400" y="170" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-11" value="Formblatt 1-1&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-10">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-12" value="Formblatt 1-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-10">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-15" value="erstellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="215" width="60" height="30" as="geometry" />
@@ -303,6 +303,12 @@
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-105" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="539" y="856" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-106" value="Formblatt 1-1&amp;nbsp;― Betonsorte/Erstprüfung/Konformitätskontrolle" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="50" width="390" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-107" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; + betonsorte : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefungsdatum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + werk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + erstpruefung_vom : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ueberwachungszeitraum : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -- Anforderungen --&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mikroprozesssteuerung_mischanlage : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frostklasse_gesteinskoernung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mindestanzahl_koernungen : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sieblinie_4mm : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + koernungen : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zement : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzstoff : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bindemittel : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzmittel : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesamtwassergehalt : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_nass : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_trocken : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betontemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lufttemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frischbeton_rohdichte : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_10min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_90min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + luftgehalt_frischbeton : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + e_modul : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + druckfestigkeit_28Tage : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -- Konformitätskontrolle --&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + haeufigkeit_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + abweichung_wesentlich : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + anforderung_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; --Bestaetigung --&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + durchfuehrer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + datum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + unterschrift : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + rolle : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6IoawU8fSsD1FMSGB_2r-106">
+          <mxGeometry y="26" width="390" height="584" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
