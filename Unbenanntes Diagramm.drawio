@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Seite-1" id="GDso6J2cdpOIWkt0ecDq">
     <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
         <mxCell id="6IoawU8fSsD1FMSGB_2r-9" value="Firmenbuchnummer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-6" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-10" value="Ausgefüllte Formblätter nach ÖNORM 4710-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-10" value="Ausgefüllte Formblätter nach ÖNORM 4710-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-11" value="Formblatt 1-1&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-10" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-11" value="Formblatt 1-1&amp;nbsp;" style="text;strokeColor=none;fillColor=light-dark(#9999FF,#D4D4FF);align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="6IoawU8fSsD1FMSGB_2r-10" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-12" value="Formblatt 1-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-10" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-12" value="Formblatt 1-2" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillStyle=cross-hatch;" parent="6IoawU8fSsD1FMSGB_2r-10" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-15" value="erstellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -67,13 +67,13 @@
             <mxPoint x="250" y="442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-28" value="ID Prüfungs Daten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-28" value="ID Prüfungs Daten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="110" y="515" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-29" value="Formblatt 3-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-28" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-29" value="Formblatt 2" style="text;strokeColor=none;fillColor=#FF66B3;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillStyle=hatch;" parent="6IoawU8fSsD1FMSGB_2r-28" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-30" value="Formblatt 3-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-28" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-30" value="Formblatt 3" style="text;strokeColor=none;fillColor=#FF66B3;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillStyle=cross-hatch;" parent="6IoawU8fSsD1FMSGB_2r-28" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-43" value="ID Excel Datei" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-28" vertex="1">
@@ -91,7 +91,7 @@
         <mxCell id="6IoawU8fSsD1FMSGB_2r-38" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-39" value="Forschungsdaten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-39" value="Forschungsdaten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="260" y="629" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-40" value="Excel Vorlage Mischungsverhältnisse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-39" vertex="1">
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-48" value="SMG Datenbank" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-48" value="SMG Datenbank" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="687" y="360" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-49" value="Betondaten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-48" vertex="1">
@@ -190,7 +190,7 @@
           <mxGeometry x="460" y="748" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-62" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="590" width="60" height="30" as="geometry" />
+          <mxGeometry x="166" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-67" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="260" width="60" height="30" as="geometry" />
@@ -213,7 +213,7 @@
         <mxCell id="ijW5oewOP2Px1TIDtDNt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6IoawU8fSsD1FMSGB_2r-19" target="ijW5oewOP2Px1TIDtDNt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-22" target="IuHXPzzb1N7-UOd6PdaA-6">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6IoawU8fSsD1FMSGB_2r-22" target="IuHXPzzb1N7-UOd6PdaA-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="845" />
@@ -243,7 +243,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-78" value="Auswertungen" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-78" value="Auswertungen" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="520" y="505" width="140" height="170" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-79" value="Ausgabe Datentabellen für ID Prüfungen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-78" vertex="1">
@@ -279,7 +279,7 @@
         <mxCell id="6IoawU8fSsD1FMSGB_2r-93" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-94" value="Forschungsberichte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-94" value="Forschungsberichte" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="507" y="880" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-95" value="Projekt 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-94" vertex="1">
@@ -314,7 +314,7 @@
         <mxCell id="6IoawU8fSsD1FMSGB_2r-105" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="539" y="856" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6IoawU8fSsD1FMSGB_2r-106" value="Formblatt 1-1&amp;nbsp;― Betonsorte/Erstprüfung/Konformitätskontrolle" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6IoawU8fSsD1FMSGB_2r-106" value="Formblatt 1-1&amp;nbsp;― Betonsorte/Erstprüfung/Konformitätskontrolle" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="50" width="390" height="610" as="geometry" />
         </mxCell>
         <mxCell id="6IoawU8fSsD1FMSGB_2r-107" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; + betonsorte : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefungsdatum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + werk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + erstpruefung_vom : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ueberwachungszeitraum : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -- Anforderungen --&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mikroprozesssteuerung_mischanlage : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frostklasse_gesteinskoernung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mindestanzahl_koernungen : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sieblinie_4mm : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + koernungen : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zement : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzstoff : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bindemittel : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzmittel : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesamtwassergehalt : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_nass : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_trocken : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betontemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lufttemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frischbeton_rohdichte : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_10min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_90min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + luftgehalt_frischbeton : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + e_modul : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + druckfestigkeit_28Tage : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -- Konformitätskontrolle --&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + haeufigkeit_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + abweichung_wesentlich : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + anforderung_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; --Bestaetigung --&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + durchfuehrer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + datum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + unterschrift : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + rolle : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="6IoawU8fSsD1FMSGB_2r-106" vertex="1">
@@ -406,7 +406,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ijW5oewOP2Px1TIDtDNt-1" value="Eigenüberwachungsdaten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ijW5oewOP2Px1TIDtDNt-1" value="Eigenüberwachungsdaten" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="393" y="10" width="167" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ijW5oewOP2Px1TIDtDNt-2" value="Mörtelwerte" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ijW5oewOP2Px1TIDtDNt-1" vertex="1">
@@ -445,7 +445,7 @@
         <mxCell id="ijW5oewOP2Px1TIDtDNt-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ijW5oewOP2Px1TIDtDNt-16" target="6IoawU8fSsD1FMSGB_2r-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ijW5oewOP2Px1TIDtDNt-16" value="Inspektionsbericht" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ijW5oewOP2Px1TIDtDNt-16" value="Inspektionsbericht" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="533" y="270" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ijW5oewOP2Px1TIDtDNt-23" value="Daten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ijW5oewOP2Px1TIDtDNt-16" vertex="1">
@@ -478,58 +478,58 @@
         <mxCell id="ijW5oewOP2Px1TIDtDNt-33" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="219" y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ijW5oewOP2Px1TIDtDNt-34" value="Formblatt 1-2 — Lieferantenangaben zur Erstprüfung)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ijW5oewOP2Px1TIDtDNt-34" value="Formblatt 1-2 — Lieferantenangaben zur Erstprüfung)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillStyle=cross-hatch;fillColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="1370" y="49" width="390" height="690" as="geometry" />
         </mxCell>
         <mxCell id="ijW5oewOP2Px1TIDtDNt-35" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betonsorte : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + seite : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bemerkung : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Gesteinskoernung&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + nummer : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bezeichnung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller_grube : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ce_nummer_wpk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + konformitaetszertifikat : Boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Zement&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + nummer : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zementart : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + festigkeitsklasse : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zus_anforderung_bindemittel : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ueA_nummer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + herstellerwerk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + konformitaetszertifikat : Boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Zusatzstoff&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + nummer : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ueA_ce_nummer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + art_wirkung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + produktbeschreibung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + konformitaetszertifikat : Boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Zusatzmittel&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + nummer : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ce_nummer_wpk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + beschreibung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + handelsbezeichnung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + konformitaetszertifikat : Boolean&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;&#39; Beziehungen&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;Formblatt_1_2 &quot;1&quot; -- &quot;0..*&quot; Gesteinskoernung&lt;/div&gt;&lt;div&gt;Formblatt_1_2 &quot;1&quot; -- &quot;0..*&quot; Zement&lt;/div&gt;&lt;div&gt;Formblatt_1_2 &quot;1&quot; -- &quot;0..*&quot; Zusatzstoff&lt;/div&gt;&lt;div&gt;Formblatt_1_2 &quot;1&quot; -- &quot;0..*&quot; Zusatzmittel&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ijW5oewOP2Px1TIDtDNt-34" vertex="1">
           <mxGeometry y="26" width="390" height="664" as="geometry" />
         </mxCell>
-        <mxCell id="ijW5oewOP2Px1TIDtDNt-37" value="Formblatt 2 — Konformitätsprüfungen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ijW5oewOP2Px1TIDtDNt-37" value="Formblatt 2 — Konformitätsprüfungen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#FF66B3;" parent="1" vertex="1">
           <mxGeometry x="910" y="838" width="390" height="780" as="geometry" />
         </mxCell>
         <mxCell id="ijW5oewOP2Px1TIDtDNt-38" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betonsorte : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + werk : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ueberwachungszeitraum : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lieferscheinnr : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + blattnr : Integer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Pruefkriterium&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bezeichnung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + einheit : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sollwert : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + anforderung_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Einzelwert&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + nummer : Integer&amp;nbsp; &amp;nbsp;&#39; EW1 bis EW12&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + messwert : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Konformitaetspruefung&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mikroprozesssteuerung_mischanlage : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + verwendungsklasse_gesteinskoernung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mindestanzahl_koernungen : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sieblinie_4mm : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + groesstkoernung : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zementmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzstoffmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bindemittel : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzmittelmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + wassergehalt_trocken : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + wassergehalt_chargenprotokoll : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + kornfeuchte : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_trocken : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_nass : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betoninnentemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lufttemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frischbetonrohdichte : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + w_b_wert : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_10min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass_90min : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + luftgehalt_frischbeton : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + i300 : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + max_abstandsfaktor : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + druckfestigkeit_28Tage : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mw_7_9 : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mw_10_12 : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;&#39; Beziehungen&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;Formblatt_2 &quot;1&quot; -- &quot;0..*&quot; Konformitaetspruefung&lt;/div&gt;&lt;div&gt;Konformitaetspruefung &quot;1&quot; -- &quot;1..*&quot; Pruefkriterium&lt;/div&gt;&lt;div&gt;Pruefkriterium &quot;1&quot; -- &quot;0..*&quot; Einzelwert&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ijW5oewOP2Px1TIDtDNt-37" vertex="1">
           <mxGeometry y="26" width="390" height="754" as="geometry" />
         </mxCell>
-        <mxCell id="ijW5oewOP2Px1TIDtDNt-39" value="Formblatt 3 — Identitätsprüfungen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ijW5oewOP2Px1TIDtDNt-39" value="Formblatt 3 — Identitätsprüfungen" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FF66B3;fillStyle=cross-hatch;" parent="1" vertex="1">
           <mxGeometry x="1370" y="838" width="390" height="970" as="geometry" />
         </mxCell>
         <mxCell id="ijW5oewOP2Px1TIDtDNt-40" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; + betonsorte : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + identitaetspruefung_nr : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefdatum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bauherr : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + baustelle : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bauteil : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + verwendungszweck : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lieferscheinnummer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefer : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Pruefkriterium&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; + bezeichnung : String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + einheit : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sollwert : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zulassiger_wert : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + anforderung_erfuellt : Boolean&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Einzelwert&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; + nummer : String&amp;nbsp; &amp;nbsp;&#39; EW1, EW2, MW&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + messwert : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Identitaetspruefung&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mikroprozesssteuerung_mischanlage : Boolean&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + verwendungsklasse_gesteinskoernung : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + mindestanzahl_koernungen : Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + sieblinie_4mm : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + groesstkoernung : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zementmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzstoffmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bindemittel : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + zusatzmittelmenge : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + wirksamer_wassergehalt : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + wassergehalt_beton : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_trocken : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + gesteinskoernung_nass : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + betoninnentemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + lufttemperatur : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + frischbetonrohdichte : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + w_b_wert : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + ausbreitmass : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + luftgehalt_frischbeton : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + i300 : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + max_abstandsfaktor : Float&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + druckfestigkeit_28Tage : Float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class Bestaetigung&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefer : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefdatum : Date&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + pruefer_unterschrift : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + hersteller : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + auftraggeber : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + verwender : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + bauherr : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + unterschrift : String&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + datum : Date&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;&#39; Beziehungen&lt;/div&gt;&lt;div&gt;&#39; -------------------&lt;/div&gt;&lt;div&gt;Formblatt_3 &quot;1&quot; -- &quot;1..*&quot; Identitaetspruefung&lt;/div&gt;&lt;div&gt;Identitaetspruefung &quot;1&quot; -- &quot;1..*&quot; Pruefkriterium&lt;/div&gt;&lt;div&gt;Pruefkriterium &quot;1&quot; -- &quot;0..*&quot; Einzelwert&lt;/div&gt;&lt;div&gt;Formblatt_3 &quot;1&quot; -- &quot;1&quot; Bestaetigung&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ijW5oewOP2Px1TIDtDNt-39" vertex="1">
           <mxGeometry y="26" width="390" height="944" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-1" value="Fördergeber" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-1" value="Fördergeber" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="960" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-2" value="FFG" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IuHXPzzb1N7-UOd6PdaA-1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-2" value="FFG" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IuHXPzzb1N7-UOd6PdaA-1" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-3" value="ACR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IuHXPzzb1N7-UOd6PdaA-1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-3" value="ACR" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IuHXPzzb1N7-UOd6PdaA-1" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IuHXPzzb1N7-UOd6PdaA-5" target="IuHXPzzb1N7-UOd6PdaA-1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IuHXPzzb1N7-UOd6PdaA-5" target="IuHXPzzb1N7-UOd6PdaA-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-5" value="Forschungsprojektantrag" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-5" value="Forschungsprojektantrag" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="800" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-6" value="Literaturquellen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IuHXPzzb1N7-UOd6PdaA-5">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-6" value="Literaturquellen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IuHXPzzb1N7-UOd6PdaA-5" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-7" value="Daten aus Vorgängerprojekten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IuHXPzzb1N7-UOd6PdaA-5">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-7" value="Daten aus Vorgängerprojekten" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="IuHXPzzb1N7-UOd6PdaA-5" vertex="1">
           <mxGeometry y="60" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-10" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-10" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="818" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-11" value="erstellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-11" value="erstellt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="817" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-79" target="IuHXPzzb1N7-UOd6PdaA-7">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6IoawU8fSsD1FMSGB_2r-79" target="IuHXPzzb1N7-UOd6PdaA-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-13" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-13" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="856" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6IoawU8fSsD1FMSGB_2r-96" target="IuHXPzzb1N7-UOd6PdaA-2">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6IoawU8fSsD1FMSGB_2r-96" target="IuHXPzzb1N7-UOd6PdaA-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="955" />
@@ -537,19 +537,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-16" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-16" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="351" y="989" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-17" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-17" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="467" y="930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-18" value="erhält" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-18" value="erhält" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="930" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-19" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-19" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="940" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IuHXPzzb1N7-UOd6PdaA-21" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="IuHXPzzb1N7-UOd6PdaA-21" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="894" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
